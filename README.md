@@ -6,6 +6,7 @@
 |---|---|---|---|
 | [ru-kit](https://github.com/Oleg4311/ru-kit) | Русская локаль без зависимостей: числа и суммы прописью, склонение по числу, проверка ИНН/СНИЛС/ОГРН, транслитерация, телефоны. `npm i @oleg4311/ru-kit` | TypeScript | [песочница](https://oleg4311.github.io/ru-kit/) |
 | [contract-impact-board](https://github.com/Oleg4311/contract-impact-board) | Кого заденет изменение API: две схемы OpenAPI + карта потребителей → затронутые поля, команды и сервисы; результаты сверены с oasdiff | TypeScript | [доска](https://oleg4311.github.io/contract-impact-board/) |
+| [byo-regex-engine](https://github.com/Oleg4311/byo-regex-engine) | Движок регулярных выражений с нуля: байткод, Pike VM за линейное время, откат для сравнения; сверен с крейтом `regex` на случайных шаблонах | Rust, WebAssembly | [песочница](https://oleg4311.github.io/byo-regex-engine/) |
 | [ledger-double-entry](https://github.com/Oleg4311/ledger-double-entry) | Денежный журнал с двойной записью: инварианты держит сама база, идемпотентность, сторно, сверка; проверен модельным property-тестом | Go, PostgreSQL | — |
 | [pg-job-queue](https://github.com/Oleg4311/pg-job-queue) | Очередь задач на одном PostgreSQL: `SKIP LOCKED`, аренда с heartbeat, ретраи, транзакционный enqueue | Go, PostgreSQL | — |
 | [rate-limiter-lab](https://github.com/Oleg4311/rate-limiter-lab) | Сравнение алгоритмов ограничения частоты (Go-библиотека, сервис, WASM-демо в браузере, нагрузка k6) | Go, WASM | [демо](https://oleg4311.github.io/rate-limiter-lab/) |
