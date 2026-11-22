@@ -20,6 +20,7 @@
 | [release-receipt](https://github.com/Oleg4311/release-receipt) | Сверка коммита, CI и реально развёрнутой версии сайта: CLI и JSON-квитанция выпуска | TypeScript, Node.js | [демо](https://oleg4311.github.io/release-receipt/) |
 | [race-replay](https://github.com/Oleg4311/race-replay) | Интерактивный разбор гонки запросов в React | React, TypeScript | [демо](https://oleg4311.github.io/race-replay/) |
 | [secret-santa](https://github.com/Oleg4311/secret-santa) | Тайный Санта: без сервера или онлайн со слепым организатором и анонимными вопросами (Workers + Durable Objects) | TypeScript, Cloudflare | [демо](https://oleg4311.github.io/secret-santa/) |
+| [multiplayer-kit](https://github.com/Oleg4311/multiplayer-kit) | Комнаты для сетевых игр: сервер проверяет ходы и не показывает чужие секреты (морской бой, четыре в ряд) | TypeScript, Cloudflare Durable Objects, WebSocket | [демо](https://multiplayer-kit.olegbelii4311.workers.dev/) |
 | [contrast-lab](https://github.com/Oleg4311/contrast-lab) | Проверка контраста цветов по WCAG с подбором ближайшего доступного цвета | JavaScript | [демо](https://oleg4311.github.io/contrast-lab/) |
 | [photo-recovery](https://github.com/Oleg4311/photo-recovery) | Восстановление удалённых фото из образов дисков | Python | — |
 | [ai-media-telegram-bot](https://github.com/Oleg4311/ai-media-telegram-bot) | Telegram-бот для генерации изображений и видео | NestJS, PostgreSQL, Redis | — |
