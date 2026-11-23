@@ -22,6 +22,7 @@
 | [secret-santa](https://github.com/Oleg4311/secret-santa) | Тайный Санта: без сервера или онлайн со слепым организатором и анонимными вопросами (Workers + Durable Objects) | TypeScript, Cloudflare | [демо](https://oleg4311.github.io/secret-santa/) |
 | [multiplayer-kit](https://github.com/Oleg4311/multiplayer-kit) | Комнаты для сетевых игр: сервер проверяет ходы и не показывает чужие секреты (морской бой, четыре в ряд) | TypeScript, Cloudflare Durable Objects, WebSocket | [демо](https://multiplayer-kit.olegbelii4311.workers.dev/) |
 | [passkeys-kit](https://github.com/Oleg4311/passkeys-kit) | Вход по passkey (WebAuthn) с нуля на Cloudflare Workers: свой CBOR/COSE, сверка с SimpleWebAuthn, обнаружение клонов | TypeScript, Cloudflare, WebAuthn | [демо](https://passkeys-kit.olegbelii4311.workers.dev/) |
+| [raft-lab](https://github.com/Oleg4311/raft-lab) | Raft на C# и детерминированный симулятор со сбоями: проверка безопасности и линеаризуемости, шесть пойманных ошибок, просмотрщик | C#, .NET 9 | [демо](https://oleg4311.github.io/raft-lab/) |
 | [contrast-lab](https://github.com/Oleg4311/contrast-lab) | Проверка контраста цветов по WCAG с подбором ближайшего доступного цвета | JavaScript | [демо](https://oleg4311.github.io/contrast-lab/) |
 | [photo-recovery](https://github.com/Oleg4311/photo-recovery) | Восстановление удалённых фото из образов дисков | Python | — |
 | [ai-media-telegram-bot](https://github.com/Oleg4311/ai-media-telegram-bot) | Telegram-бот для генерации изображений и видео | NestJS, PostgreSQL, Redis | — |
