@@ -26,6 +26,7 @@
 | [contrast-lab](https://github.com/Oleg4311/contrast-lab) | Проверка контраста цветов по WCAG с подбором ближайшего доступного цвета | JavaScript | [демо](https://oleg4311.github.io/contrast-lab/) |
 | [byo-git-python](https://github.com/Oleg4311/byo-git-python) | Свой git на чистом Python: хэши коммитов, log, diff и слияние совпадают с настоящим git, `git fsck` принимает репозитории | Python | — |
 | [tinylsm](https://github.com/Oleg4311/tinylsm) | LSM-хранилище на Rust без зависимостей: WAL, SSTable, уплотнение, снимки; сбои питания проверяются на каждой точке записи | Rust | — |
+| [lang-to-wasm](https://github.com/Oleg4311/lang-to-wasm) | Компилятор маленького языка в WebAssembly без библиотек: свой бинарный кодировщик, оптимизатор, сверка с интерпретатором на случайных программах | TypeScript, WebAssembly | [демо](https://oleg4311.github.io/lang-to-wasm/) |
 | [photo-recovery](https://github.com/Oleg4311/photo-recovery) | Восстановление удалённых фото из образов дисков | Python | — |
 | [ai-media-telegram-bot](https://github.com/Oleg4311/ai-media-telegram-bot) | Telegram-бот для генерации изображений и видео | NestJS, PostgreSQL, Redis | — |
 
